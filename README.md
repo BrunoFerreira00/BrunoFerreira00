@@ -1,6 +1,4 @@
-# I'm Bruno
-
-## About me
+# About me
 
 I'm currently studying computer science and engineering at ISEL( Instituto Superior de Engenharia de Lisboa).
 
