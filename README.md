@@ -14,3 +14,9 @@ Hoping to get into the CyberSecurity Field.
 
   <br/>
 </div>
+
+## ☣️ My TryHackMe Data
+
+<div>
+	<script src="https://tryhackme.com/badge/236254"></script>
+</div>
