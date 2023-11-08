@@ -6,14 +6,16 @@ Hoping to get into the CyberSecurity Field.
 
 ## 📊 My GitHub Data
 
-<div style="text-align: center;">
+<p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoFerreira00&theme=dark" alt="BrunoFerreira00" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoFerreira00&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="BrunoFerreira00" height="192px"/>
-</div>
+</p>
 
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoFerreira00&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="BrunoFerreira00" height="192px" />
+</p>
 
 ## ☣️ My TryHackMe Data
 
-<div style="text-align: center;">
+<p align="center">
 	<img src="https://tryhackme-badges.s3.amazonaws.com/KillerZom.png" alt="TryHackMe">
-</div>
+</p>
