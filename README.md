@@ -9,14 +9,11 @@ Hoping to get into the CyberSecurity Field.
 <div>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoFerreira00&theme=dark" alt="BrunoFerreira00" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoFerreira00&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="BrunoFerreira00" height="192px"/>
-  <br/>
 </div>
 
-  <br/>
-</div>
 
 ## ☣️ My TryHackMe Data
 
 <div>
-	<script src="https://tryhackme.com/badge/236254"></script>
+	<img src="https://tryhackme-badges.s3.amazonaws.com/KillerZom.png" alt="TryHackMe">
 </div>
